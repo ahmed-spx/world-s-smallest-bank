@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
 class Account{
-    private static int nextAccountNumber = 1;
+    private static int nextAccountNumber = 10001;
     private int accountNumber;
     private double accountBalance;
     public Account(){
         accountBalance = 0;
-        accountNumber = 10001;
+        accountNumber = nextAccountNumber++;
     }
     public Account(double accountBalance){
         this.accountBalance = accountBalance;
