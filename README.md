@@ -1,4 +1,4 @@
-This lab assignment included these topics in Java.
+In this lab for my CSE 1322 Programming Problem Solving II at Kennesaw State University, we covered these topics.
 1. Inheritance
 2. Over-riding methods
 3. Instantiating objects
